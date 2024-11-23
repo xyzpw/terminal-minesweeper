@@ -6,6 +6,12 @@ Classic Minesweeper made using ncurses.
 ![terminal-minesweeper-preview](https://github.com/user-attachments/assets/9846868b-1543-49fa-a3e8-c8723166e51f)
 ## Gameplay
 
+### Controls
+Movement: `wasd`<br>
+Open cell: `space`<br>
+Place flag: `f`<br>
+Quit: `q`
+
 ### Difficulties
 To change difficulty, input difficulty type after executing executable:
 ```bash
