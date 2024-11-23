@@ -1,6 +1,9 @@
 # terminal-minesweeper
 Classic Minesweeper made using ncurses.
 
+![downloads](https://img.shields.io/github/downloads/xyzpw/terminal-minesweeper/total)
+
+![terminal-minesweeper-preview](https://github.com/user-attachments/assets/9846868b-1543-49fa-a3e8-c8723166e51f)
 ## Gameplay
 
 ### Difficulties
